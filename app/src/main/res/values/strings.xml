@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="quiz_intro_text">Answer these 8 questions about Animal Crossing in this interactive quiz!</string>
+
+    <!--Questions-->
+    <string name="question_1">What is the name of the latest game in the Animal Crossing series?</string>
+    <string name="question_2">Who sells you your first house?</string>
+    <string name="question_3">Who can you sell your items to?</string>
+    <string name="question_4">What type of animal are Reese and Cyrus?</string>
+    <string name="question_5">How many public works projects can you take on at a time?</string>
+    <string name="question_6">In Animal Crossing you can eat…</string>
+    <string name="question_7">Timmy and Tommy are Tom Nook\'s…</string>
+    <string name="question_8">Sable, Mabel and Labelle are…</string>
+
+    <!--CheckBoxes-->
+    <string name="reese">Reese</string>
+    <string name="timmy_tommy">Timmy and Tommy</string>
+    <string name="blathers">Blathers</string>
+    <string name="apples">Apples</string>
+    <string name="peaches">Peaches</string>
+    <string name="fish">Fish</string>
+    <string name="candy">Candy</string>
+    <string name="chocolate_coins">Chocolate Coins</string>
+    <string name="orphans">Orphans</string>
+    <string name="master_chefs">Master Chefs</string>
+    <string name="sisters">Sisters</string>
+    <string name="hedgehogs">Hedgehogs</string>
+
+    <!--Other-->
+    <string name="answer">Answer</string>
+    <string name="submit">Submit Answers!</string>
+    
+    <string-array name="games">
+        <item>Animal Crossing: Wild World</item>
+        <item>Animal Crossing: New Leaf</item>
+        <item>Animal Crossing</item>
+        <item>Animal Crossing: Cozy Hollow</item>
+    </string-array>
+
+    <string name="nephews">Nephews</string>
+    <string name="sons">Sons</string>
+    <string name = "friends">Friends</string>
+    <string name ="grandsons">Grandsons</string>
+</resources>
